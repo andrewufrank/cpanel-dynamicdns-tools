@@ -26,32 +26,32 @@
 #
 # CONTACT_EMAIL is the email address that will be contacted upon failure
 #
-CONTACT_EMAIL=""
+CONTACT_EMAIL="frank@geoinfo.tuwien.ac.at"
 
 #
 # DOMAIN and SUBDOMAIN are the domain that should get its A entry updated
 # SUBDOMAIN can be left blank if you wish to update the root domain
 #
-DOMAIN=""
-SUBDOMAIN=""
+DOMAIN="gerastree.at"
+SUBDOMAIN="pg"
 
 #
 # CPANEL_SERVER is the hostname or ip address to connect to
 #
-CPANEL_SERVER=""
+CPANEL_SERVER="cp140.sp-server.net"
 
 #
 # CPANEL_USER and CPANEL_PASS are the username and password for your
 # cPanel Account
 #
-CPANEL_USER=""
-CPANEL_PASS=""
+CPANEL_USER="gerastre"
+CPANEL_PASS="7qTz!oO-S14Un1"
 
 #
 #  QUIET supresses all information messages (not errors)
 #  set to 0 or 1
 #
-QUIET=""
+QUIET="0"
 
 # Program starts here
 banner ()
